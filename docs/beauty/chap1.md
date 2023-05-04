@@ -1,17 +1,17 @@
 # 风景
 
 许多年前还在上海的时候，好久没见银杏树了
-![银杏](/images/IMG_0077.jpg)
+![银杏](https://shanyu-1310110385.cos.ap-guangzhou.myqcloud.com/beauty/yinxing.jpg)
 
 某个傍晚大学操场上 一直留着
-![大学操场](/images/IMG_1478.jpg)
+![大学操场](https://shanyu-1310110385.cos.ap-guangzhou.myqcloud.com/beauty/caochang.jpg)
 
 广州某个园区
-![下雨](/images/IMG_4795.jpg)
+![下雨](https://shanyu-1310110385.cos.ap-guangzhou.myqcloud.com/beauty/tanzhou.jpg)
 
 thug-life 哈哈哈
-![thug-life](/images/IMG_7199.jpg)
+![thug-life](https://shanyu-1310110385.cos.ap-guangzhou.myqcloud.com/beauty/thugLife.jpg)
 
 路边随手
-![喵喵](/images/IMG_8268.jpg)
-![喵喵](/images/IMG_8274.jpg)
+![喵喵](https://shanyu-1310110385.cos.ap-guangzhou.myqcloud.com/beauty/cunhua.jpg)
+![喵喵](https://shanyu-1310110385.cos.ap-guangzhou.myqcloud.com/beauty/cunhua2.jpg)
