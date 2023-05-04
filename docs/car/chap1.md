@@ -10,5 +10,5 @@ midjourney生成
 
 去4S店看了下新款的蒙迪欧，确实好看呐。可惜隐藏门把手和大连屏感觉不是很实用。
 加上还有爱国buff。看看就好
-![car](https://shanyu-1310110385.cos.ap-guangzhou.myqcloud.com/car/midjourney.jpg)
-![car](https://shanyu-1310110385.cos.ap-guangzhou.myqcloud.com/car/midjourney.jpg)
+![car](https://shanyu-1310110385.cos.ap-guangzhou.myqcloud.com/car/mengdiou.jpg)
+![car](https://shanyu-1310110385.cos.ap-guangzhou.myqcloud.com/car/mengdiou2.jpg)
