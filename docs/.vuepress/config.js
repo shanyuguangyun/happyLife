@@ -6,9 +6,9 @@ module.exports = {
   themeConfig: {
     sidebarDepth: 3,
     nav: [
-      { text: "主页", link: "https://shanyuguangyun.github.io/webBook" },
+      { text: "主页", link: "https://shanyuguangyun.github.io/webBook/front/vue" },
       { text: "基础知识", link: "https://shanyuguangyun.github.io/gitBook" },
-      { text: "数据结构", link: "https://shanyuguangyun.github.io/dsBook" },
+      { text: "数据结构", link: "https://shanyuguangyun.github.io/dsBook/ds/xu" },
       { text: "GitHub", link: "https://github.com/shanyuguangyun" },
     ],
     sidebar: [
